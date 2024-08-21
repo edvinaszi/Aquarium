@@ -37,31 +37,31 @@ namespace Akvarium
 
 			while (true)
 			{
-                if (Console.KeyAvailable)
-                {
-                    break;
-                }
+                		if (Console.KeyAvailable)
+                	{
+                    		break;
+                	}
 
-                int randomTask = random.Next(2);
-                int randomFish = random.Next(fishes.Count);
+                	int randomTask = random.Next(2);
+                	int randomFish = random.Next(fishes.Count);
 
-                    Console.Clear();
+                    	Console.Clear();
 
-                    switch (randomTask)
-                    {
-                        case 0:
-                            SimulateFishSwimming(fishes[randomFish].Looks);
-                            Console.Clear();
-                            fishes[randomFish].Swim();
-                            break;
-                        case 1:
-                            fishes[random.Next(fishes.Count)].Eat();
-                            break;
-                        default:
-                            break;
+                    	switch (randomTask)
+                    	{
+                        	case 0:
+                            		SimulateFishSwimming(fishes[randomFish].Looks);
+                            		Console.Clear();
+                            		fishes[randomFish].Swim();
+                            		break;
+                        	case 1:
+                            		fishes[random.Next(fishes.Count)].Eat();
+                            		break;
+                        	default:
+                            		break;
                     }
 
-                Thread.Sleep(2000);
+                	Thread.Sleep(2000);
 
             }
         }
@@ -71,7 +71,7 @@ namespace Akvarium
         {
             Random random = new Random();
             int randomSpeed = random.Next(10, 50);
-            int randomHeight = random.Next(0, 40);
+            int randomHeight = random.Next(0, Console.WindowHeight);
             int windowWidth = Console.WindowWidth;
 
             bool isSwimmingRight = randomFish[0] == '>';
