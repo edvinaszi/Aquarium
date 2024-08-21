@@ -1,0 +1,15 @@
+/Users/ziogas/Projects/Akvarium/Akvarium/bin/Debug/net7.0/Akvarium
+/Users/ziogas/Projects/Akvarium/Akvarium/bin/Debug/net7.0/Akvarium.deps.json
+/Users/ziogas/Projects/Akvarium/Akvarium/bin/Debug/net7.0/Akvarium.runtimeconfig.json
+/Users/ziogas/Projects/Akvarium/Akvarium/bin/Debug/net7.0/Akvarium.dll
+/Users/ziogas/Projects/Akvarium/Akvarium/bin/Debug/net7.0/Akvarium.pdb
+/Users/ziogas/Projects/Akvarium/Akvarium/obj/Debug/net7.0/Akvarium.csproj.AssemblyReference.cache
+/Users/ziogas/Projects/Akvarium/Akvarium/obj/Debug/net7.0/Akvarium.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziogas/Projects/Akvarium/Akvarium/obj/Debug/net7.0/Akvarium.AssemblyInfoInputs.cache
+/Users/ziogas/Projects/Akvarium/Akvarium/obj/Debug/net7.0/Akvarium.AssemblyInfo.cs
+/Users/ziogas/Projects/Akvarium/Akvarium/obj/Debug/net7.0/Akvarium.csproj.CoreCompileInputs.cache
+/Users/ziogas/Projects/Akvarium/Akvarium/obj/Debug/net7.0/Akvarium.dll
+/Users/ziogas/Projects/Akvarium/Akvarium/obj/Debug/net7.0/refint/Akvarium.dll
+/Users/ziogas/Projects/Akvarium/Akvarium/obj/Debug/net7.0/Akvarium.pdb
+/Users/ziogas/Projects/Akvarium/Akvarium/obj/Debug/net7.0/Akvarium.genruntimeconfig.cache
+/Users/ziogas/Projects/Akvarium/Akvarium/obj/Debug/net7.0/ref/Akvarium.dll
